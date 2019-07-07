@@ -18,7 +18,7 @@ Este seminario va dirigido a mejorar las competencias de los participantes en la
 
 * Coromoto Antonia León Hernández
 * Gara Miranda Valladares
-* Casiano Rodríguez León
+* [Casiano Rodríguez León](https://github.com/ULL-LSI/campus-america-2019/tree/master/casiano) 
 * Efrén Mezura Montes
 * Carlos Segura González 
 
