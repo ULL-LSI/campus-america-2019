@@ -28,24 +28,24 @@ Esta edición del seminario se ha organizado en 10 horas distribuidas en 5 sesio
 # Programa
 
 * [Procesadores de Lenguajes](https://github.com/ULL-LSI/campus-america-2019/tree/master/casianoz) 
-* 8 de julio, 10:00 - 12:00 h. 
-* Imparte: Casiano Rodríguez León. Catedrático de la ULL. 
+  * 8 de julio, 10:00 - 12:00 h. 
+  * Imparte: Casiano Rodríguez León. Catedrático de la ULL. 
 
 * Inteligencia computacional y el segundo aire de la inteligencia artificial 
-* 8 de julio, 12:00 - 14:00 h. 
-* Imparte: Efrén Mezura Montes. Artificial Intelligence Reseach Center, University of Veracruz, México.
+  * 8 de julio, 12:00 - 14:00 h. 
+  * Imparte: Efrén Mezura Montes. Artificial Intelligence Reseach Center, University of Veracruz, México.
 
 * Frameworks para la resolución de problemas complejos: lo que necesita saber el usuario final 
-* 8 de julio, 16:00 - 18:00 h. 
-* Imparte: Gara Miranda Valladares. Profesora Contratada Doctor de la ULL.
+  * 8 de julio, 16:00 - 18:00 h. 
+  * Imparte: Gara Miranda Valladares. Profesora Contratada Doctor de la ULL.
 
 * Aplicación de técnicas de cómputo evolutivo para la resolución de problemas complejos 
-* 9 de julio, 10:00 - 12:00 h. 
-* Imparte: Carlos Segura González. Investigador del Centro de Investigación den Matemáticas (CIMAT). Guanajuato, México.
+  * 9 de julio, 10:00 - 12:00 h. 
+  * Imparte: Carlos Segura González. Investigador del Centro de Investigación den Matemáticas (CIMAT). Guanajuato, México.
 
 * Mesa redonda: lenguajes y sistemas informáticos para la resolución de problemas complejos 
-* 9 de julio, 12:00 - 14:00 h. 
-* Moderador: Coromoto León Hernández. Catedrática de la ULL. 
+  * 9 de julio, 12:00 - 14:00 h. 
+  * Moderador: Coromoto León Hernández. Catedrática de la ULL. 
 
 
 # Criterios de evaluación
