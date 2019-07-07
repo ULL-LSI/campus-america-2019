@@ -28,7 +28,7 @@ Esta edición del seminario se ha organizado en 10 horas distribuidas en 5 sesio
 
 # Programa
 
-* [Procesadores de Lenguajes](https://github.com/ULL-LSI/campus-america-2019/tree/master/casianoz) 
+* [Procesadores de Lenguajes](https://github.com/ULL-LSI/campus-america-2019/tree/master/casiano) 
   * 8 de julio, 10:00 - 12:00 h. 
   * Imparte: Casiano Rodríguez León. Catedrático de la ULL. 
 
