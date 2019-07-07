@@ -10,16 +10,17 @@ Fecha de impartición: 08/07/2019 - 09/07/2019 Horas teóricas presencial: 10 Ho
 Este seminario va dirigido a mejorar las competencias de los participantes en la inclusión de lenguajes y sistemas informáticos y computación de altas prestaciones en los proyectos de investigación y en los artículos científicos que puedan derivarse de sus investigaciones en la resolución de problemas complejos. El objetivo del seminario Lenguajes y Sistemas Informáticos para la resolución de problemas complejos es, la formación de los asistentes en las más recientes aportaciones informáticas a través de la experiencia, el intercambio de ideas y los conocimientos que aportarán investigadores y docentes de reconocido prestigio en la Escuela de Ingeniería y Tecnología de la Universidad de La Laguna.  
 
 # Horario:
-Lunes 10:00 14:00
-Lunes 16:00 18:00
-Martes 10:00 14:00
+* Lunes 10:00 14:00
+* Lunes 16:00 18:00
+* Martes 10:00 14:00
  
 # Profesorado:
-Coromoto Antonia León Hernández
-Gara Miranda Valladares
-Casiano Rodríguez León
-Efrén Mezura Montes
-Carlos Segura González 
+
+* Coromoto Antonia León Hernández
+* Gara Miranda Valladares
+* Casiano Rodríguez León
+* Efrén Mezura Montes
+* Carlos Segura González 
 
 # Metodología docente
 
